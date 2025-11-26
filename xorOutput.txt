@@ -1,0 +1,135 @@
+=== XOR between C1 and C2 ===
+..L..NW....O.R...B..M...OH.T...HN..A...MT......E..MO..SC.NC....RF........EC.....R..tN....M.U.O.NT.....CST.H....M
+
+=== XOR between C1 and C3 ===
+..EC..C.A....GT..O..M...Y.ZQW..HN..A..U.R.........KR.EC..ND......A...RO.H.A...B..RB..W.....O...
+
+=== XOR between C1 and C4 ===
+..EC..P......TT..O.....RBH.AW...KQ......T...P.....GT......K.L.......O.ST..P......T.ER....E....GAT.........C....I..R..G.....M..r.....Ph.....
+
+=== XOR between C1 and C5 ===
+..UC..NA.C...TT......B.RSTA...T.A.U....MF...P.T....W......C....Z..C..RS...L...B..RB..W...CAr...N....N..M..N.......R..I....
+
+=== XOR between C1 and C6 ===
+..E..NA..C.......E.U..E.RHET....P..ACT..A.O.....R.GL.EK........E..C...ET..O.U.......T...HS.S....T...N..A.OW.........EK...E.ENR...E..F.A....
+
+=== XOR between C1 and C7 ===
+..E..NA..C.......E.U..E.YAAO....H.OA...MT...P.........EC..V....E..C..RU..EB....E.OCVEW..HB.E..GT..A.....T.N.A..ET..........RHSr...R.O......
+
+=== XOR between C1 and C8 ===
+..........T..ET..I..M...RT.T..T.H..A..U.N.....T..SO...O..NB..S.SF....RA..EC......S.XO..T.O.E.O.R..A...DE..I....E..RHEa..M..A.I.
+
+=== XOR between C1 and C9 ===
+.E....V...Y..Y.HEE......I.......M.U.....SC.M......ZH...C..M...OAF.....D.......B..NTGA......E..K..R.....D..EB.........P......LN.O.E..O......
+
+=== XOR between C1 and C10 ===
+w.H.A.O.....Ro...R......O.TR.I.Z.ACHN........U....ZOw.SC..EA......CT..I...GN.M.E.O.CI..T.O.E.AG
+
+=== XOR between C2 and C3 ===
+...E.I..U..I..O...........O.H.........SC.......A.....E.A.......RAS...EO.FF....T.A.SaCN...M...E.
+
+=== XOR between C2 and C4 ===
+...E.I.....E..O.....C..J....H..A.O.N...P....R..G......SL.O..R..RG...N.SO.I......XY.........U.YO........SE.......
+
+=== XOR between C2 and C5 ===
+...E.O.H.L.A..O..B..YE.J..TT..TC..WK........R.MG..C...SS.E......E.T..ES..A....T.A.SaCN....O..T..B...E.H.M......M
+
+=== XOR between C2 and C6 ===
+.........L.W.R.....YO.N...P....A....EI.H..E....HB....E.E.PC.....T.T...EO.R..Y...R.L.....Y....E.B....E.O.TT.....M
+
+=== XOR between C2 and C7 ===
+.........L.W.R.....YO.N...T....P..M.........R..L...O.....O......N.T..EU........OFBR..N..Y....KO.H.U...B.....O...
+
+=== XOR between C2 and C8 ===
+..L..NW...DT..O...............TC......SU......MI.E.O...N.....N.......EA.........E......N........O.U.....N.......
+
+=== XOR between C2 and C9 ===
+.UD..I....IK..FBA...R.....NT...E..WS...E.HVO...O.........A....E.......D..EC...T.ECE......M...SCNAe....B.U..E...M
+
+=== XOR between C2 and C10 ===
+e...Rc.....EP.......I.....A..A....A.H........E.R....M....H.O...RO.TO..I..N.R.P.OSBL....N......O
+
+=== XOR between C3 and C4 ===
+........E...........C..E..O....A.O.N..Y.....O........MC..O..I....O..TA.FC.....T...SP.O...E.O..H
+
+=== XOR between C3 and C5 ===
+.......BTT.......O..Yk.E...QO.SC..WK..SC....O.R...E..OC..E.....Z.SL.....E................Cb....
+
+=== XOR between C3 and C6 ===
+...R.I..ET...GT....TO.E.....O..A....ZET...P.....P........PD....E.SL..F.FF...C.O..R.IYT..NS.....
+
+=== XOR between C3 and C7 ===
+...R.I..ET...GT....TO.E.....G..P..M...EC....O......R.H.A.O.....E.TL.....EF....EC...CH...NB....H
+
+=== XOR between C3 and C8 ===
+..EC..C.E.H...............O.H.SC..............R..H.R.R.......V.SAS......DF....U...SMBR.A.O...E.
+
+=== XOR between C3 and C9 ===
+.HMP....T.E....AB...R......QS..E..WS..T..YCT.........SOA.A....EAAP...E..R.A........RLT........D
+
+=== XOR between C3 and C10 ===
+t..EN...C...N.X.....I.......YI....A.W.E......G......SA.A.H.R.....FLO.R..I..N.YRC...VDN.A.O...KH
+
+=== XOR between C4 and C5 ===
+.......O.R.......O...E....TAO.E..RE....P......L...I.........A..Z..O.NA.T......T...SP.O....Dr..E.B...O..M.......I..........
+
+=== XOR between C4 and C6 ===
+...R.I...R...TT....U..DC..P.O....H.NNR....O.H...O....MK...K.E..E..O.A.......E....TL.....C..S..RM....O..A.N.....I..L.L....T..C.E..I...Ez....R....
+
+=== XOR between C4 and C7 ===
+...R.I...R...TT....U..DC..T.G....Y.N...P...........T..EL....R..E..O.OA.S.I.....E..R..O..C..E....H.T.....E...Y...O.H..G......E.....L..V.......A..
+
+=== XOR between C4 and C8 ===
+..EC..P...T.........C..E....H.E..I.N..Y.....P.L..R.T..O..O..TA.SG...TA.N.I.............U...E.YF.O.T...GE...........LL...I...MDR
+
+=== XOR between C4 and C9 ===
+.HMP......Y....PR......T..NAS....EE......I.NA..........L....L.SAG...C..U..P...T...E......E.E...AAS.....D...R...I..C.......DMACDp.I...C.....R...N
+
+=== XOR between C4 and C10 ===
+t..EC.......X.X........I..A.YWMS..SGC.......SA......H.SL...SA.....ODW..T...H.R.E..L....U...E.W.
+
+=== XOR between C5 and C6 ===
+...R.O.U.....TT..E.U.FAC...T..R...YKHY.H..O.H.C.U.I..OK...C..........F.T....N.O..R.IYT..R.I....BB........E........L.L....R
+
+=== XOR between C5 and C7 ===
+...R.O.U.....TT..E.U.FAC...O..A....K..........L...SW..ES.................A....EC...CH...R.R...E...R.O..AM...I..EO.H..I....
+
+=== XOR between C5 and C8 ===
+..UC..NT.EW......I..YW.E..TT......PK..SU....P....YAW..O..E...L..E.E......A....U...SMBR.A..W..T....R.H.O........E...nL...E.
+
+=== XOR between C5 and C9 ===
+.O.P...F.EZ....TOE...Y.T......H........E.R.MA.G...T....S......I.E.R..E....L........RLT...CK...IN.E..O......T......C.......
+
+=== XOR between C5 and C10 ===
+y..ED..I.I..N.X..R...C.I...R.F.QQB.BE.......SAC...T.H.SS...I...Z...I.R.....I.GRC...VDN.A..D..ZE
+
+=== XOR between C6 and C7 ===
+..................................C.BN.H..A.H...O..L.H.E..V..........F.S.R..U..U.O...T........RXH.N.O..MTA..I..EW...TK...U....E..ES...E....N.O......E.....TFBR..U........I..
+
+=== XOR between C6 and C8 ===
+..E..NA..ET..ET....TO.H...P...R.....DST...A...C.FW.L.R...PB..C..T.E..F.N.R..N....SL....EP....E..O.N.H.H..V.....E..LA....Ps.....
+
+=== XOR between C6 and C9 ===
+.HM..I...EY..Y.YP..C..P....T......YSYA...T.W....R....SGE..M...R.T.R....U..O.O.O..N......GS......AA..O....R.H........Y....G.E...T......E........RD.........Z.
+
+=== XOR between C6 and C10 ===
+t...Ec...I..Oo.....d..T......GZS.XO..D....N..I..Y...LA.E..ES...E...S...T...MOY.U.O.....EC....KR
+
+=== XOR between C7 and C8 ===
+..E..NA..ET..ET....TO.H...T...A...J...EU....P.L..W.....N.O...N..N.E............M..R..R.OP....KF.......EIN...O...N.HLTa..Q.....R
+
+=== XOR between C7 and C9 ===
+.HM..I...EY..Y.YP..C..P....O.......S...E.HRTA......H..I.......M.N.R..E...EB...EG.....T..GB.....T.EP....HU..DF..EE....P....ER..DT.EP........N.O.OD...Y.......
+
+=== XOR between C7 and C10 ===
+t...Ec...I..Oo.....d..T......RIBXI..O.......SA.....OT......E...E...T.R...N.R.T.......N.OC....E.
+
+=== XOR between C8 and C9 ===
+.E....V........PO...R.....NT..H...PS..T..HRP..G..I.H..CN.A...YI......E...EC...U...E....N.O...SJR.MP...E....R...E..C.Y...N.DA...
+
+=== XOR between C8 and C10 ===
+w.H.A.O...S.H.X.....I.....A..E.QXYF.I.E......YC..P.OW..N.H.I.R.SO.EN.R...N.O.S.M..L...........F
+
+=== XOR between C9 and C10 ===
+at..R.......E.QFO..........R.C.W.U.ZT......E.L......M......E..TAO.RO......GF.RRG.......N.O.....
+
